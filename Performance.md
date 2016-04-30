@@ -1,5 +1,5 @@
 
-Third=Party Performance Monitoring Tools
+Third-Party Performance Monitoring Tools
 * https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
 * https://www.appdynamics.com/  - the best tool that I've used, extensively
 * http://newrelic.com/  - also a great tool
@@ -23,7 +23,7 @@ Oracle Monitoring Tools & Guidance
 *  ```-Xprof``` command line option
 
 
-Bookd Related to Overall Performance Concepts
+Books Related to Overall Performance Concepts
 * [system Performance: Enterprise and the Cloud, 1st Edition, by Brendan Gregg] (http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) - THIS is the 1st book you should read.
 
 Books Related to Java Performance
