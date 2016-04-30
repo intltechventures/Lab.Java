@@ -23,6 +23,10 @@ Oracle Monitoring Tools & Guidance
 *  ```-Xprof``` command line option
 
 
+Useful WEb Resources
+* http://www.javaperformancetuning.com/
+
+
 Books Related to Overall Performance Concepts
 * [system Performance: Enterprise and the Cloud, 1st Edition, by Brendan Gregg] (http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) - THIS is the 1st book you should read.
 
@@ -34,5 +38,6 @@ Books Related to Java Performance
 
 
 Articles
+* http://zeroturnaround.com/rebellabs/10-reasons-why-java-rocks-more-than-ever-part-8-profiling-tools/
 * http://www.infoq.com/articles/java-profiling-with-open-source
 * http://www.eclipse.org/tptp/home/documents/tutorials/profilingtool/profilingexample_32.html 
