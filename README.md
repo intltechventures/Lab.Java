@@ -33,6 +33,10 @@ Oracle SE Documentation
 	* https://docs.oracle.com/javaee/6/tutorial/doc/
 
 
+Useful Third-Party Tools
+* [JRebel] (http://zeroturnaround.com/software/jrebel/)
+
+
 News Sources
 * https://jaxenter.com/
 
