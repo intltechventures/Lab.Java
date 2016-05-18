@@ -4,6 +4,7 @@ Oracle SE Documentation
 * Tutorials
 	* http://docs.oracle.com/javase/tutorial/
 	* http://docs.oracle.com/javase/tutorial/reallybigindex.html
+    * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
 	* https://blogs.oracle.com/thejavatutorials/
 * Java SE
 	* http://www.oracle.com/technetwork/java/javase/overview/index.html
@@ -19,6 +20,7 @@ Oracle SE Documentation
 	* http://docs.oracle.com/javase/8/
 	* http://docs.oracle.com/javase/8/docs/
 	* https://docs.oracle.com/javase/8/docs/api/
+    * https://docs.oracle.com/javase/8/docs/api/overview-summary.html
 * Java EE 
 	* http://www.oracle.com/technetwork/java/javaee/overview/index.html
 	* http://www.oracle.com/technetwork/java/javaee/documentation/index.html
