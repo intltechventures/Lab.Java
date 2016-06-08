@@ -42,3 +42,6 @@ Useful Third-Party Tools
 News Sources
 * https://jaxenter.com/
 
+
+Interesting Github Respositories
+* https://github.com/aruld/java-oneliners
