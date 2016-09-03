@@ -13,6 +13,8 @@ Third-Party Performance Monitoring Tools
 * [BTrace] (https://kenai.com/projects/btrace)
 * http://www.inspectit.rocks/
 	* https://github.com/inspectIT/inspectIT 
+* https://www.ej-technologies.com/products/jprofiler/overview.html
+
 
 
 Oracle Monitoring Tools & Guidance
@@ -23,7 +25,7 @@ Oracle Monitoring Tools & Guidance
 *  ```-Xprof``` command line option
 
 
-Useful WEb Resources
+Useful Web Resources
 * http://www.javaperformancetuning.com/
 
 
