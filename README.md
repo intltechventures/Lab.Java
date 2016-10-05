@@ -45,3 +45,9 @@ News Sources
 
 Interesting Github Respositories
 * https://github.com/aruld/java-oneliners
+
+
+Additional Interesting Tutorials
+* https://blogs.oracle.com/java/java-8-code-swim
+
+
