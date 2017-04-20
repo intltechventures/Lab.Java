@@ -50,4 +50,5 @@ Interesting Github Respositories
 Additional Interesting Tutorials
 * https://blogs.oracle.com/java/java-8-code-swim
 
-
+Other Java 8 Tutorials
+* https://www.mkyong.com/tutorials/java-8-tutorials/
