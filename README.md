@@ -1,6 +1,11 @@
 # Lab.Java
 
-Oracle SE Documentation
+## Azul OpenJDK
+- https://www.azul.com/
+  + https://www.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk
+
+
+## Oracle SE Documentation
 * Tutorials
 	* http://docs.oracle.com/javase/tutorial/
 	* http://docs.oracle.com/javase/tutorial/reallybigindex.html
@@ -35,20 +40,20 @@ Oracle SE Documentation
 	* https://docs.oracle.com/javaee/6/tutorial/doc/
 
 
-Useful Third-Party Tools
+## Useful Third-Party Tools
 * [JRebel] (http://zeroturnaround.com/software/jrebel/)
 
 
-News Sources
+## News Sources
 * https://jaxenter.com/
 
 
-Interesting Github Respositories
+## Interesting Github Respositories
 * https://github.com/aruld/java-oneliners
 
 
-Additional Interesting Tutorials
+## Additional Interesting Tutorials
 * https://blogs.oracle.com/java/java-8-code-swim
 
-Other Java 8 Tutorials
+## Other Java 8 Tutorials
 * https://www.mkyong.com/tutorials/java-8-tutorials/
